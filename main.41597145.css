@@ -1,0 +1,2 @@
+.clock{width:80vmin;height:80vmin;border-radius:50%;border:7px dotted plum;position:relative;margin:auto}.clock__hand{width:4px;height:30%;position:absolute;background-color:purple;transform-origin:bottom;bottom:50%;left:50%;animation:rotate360 60s linear infinite}.clock__hand--second{background-color:#db7093;animation:rotate360 5s linear infinite;height:40%}@keyframes rotate360{to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.41597145.css.map */
